@@ -32,6 +32,6 @@ Jupyter Notebook containing the data preprocessing, model training, and evaluati
 Dataset used for training and testing the models.
 
 Technologies Used:<br />
--Python
--scikit-learn
--Jupyter Notebook
+-Python<br />
+-scikit-learn<br />
+-Jupyter Notebook<br />
