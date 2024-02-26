@@ -1,10 +1,10 @@
 Breast Cancer Prediction Using Logistic Regression and Decision Tree
 
-This project focuses on predicting breast cancer using the Logistic Regression and Decision Tree algorithms. The dataset used contains features extracted from digitized images of fine needle aspirates (FNA) of breast masses. The features include:
+This project focuses on predicting breast cancer using the Logistic Regression and Decision Tree algorithms. The dataset used contains features of breast masses. The features include:
 
--Radius: The mean distance from the center to points on the perimeter of the nucleus.
--Texture: The standard deviation of gray-scale values in the nucleus.
--Perimeter: The perimeter of the nucleus.
+-Radius: The mean distance from the center to points on the perimeter of the nucleus.__
+-Texture: The standard deviation of gray-scale values in the nucleus.__
+-Perimeter: The perimeter of the nucleus.__
 -Area: The area of the nucleus.
 -Smoothness: A measure of local variation in radius lengths.
 -Compactness: Computed as the square of the perimeter divided by the area minus 1.0.
