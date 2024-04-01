@@ -1,4 +1,4 @@
-Breast Cancer Prediction Using Logistic Regression and Decision Tree
+## Breast Cancer Prediction Using Logistic Regression and Decision Tree
 
 This project focuses on predicting breast cancer using the Logistic Regression and Decision Tree algorithms. The dataset used contains features of breast masses. 
 
