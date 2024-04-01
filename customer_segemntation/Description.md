@@ -1,4 +1,4 @@
-##Customer Segmentation for Marketing Data Using KMeans Clustering
+## Customer Segmentation for Marketing Data Using KMeans Clustering
 
 Project Overview:<br />
 This project focuses on segmenting customers for targeted marketing strategies using KMeans clustering. The dataset contains various features such as customer demographics, purchase history, and interactions with marketing campaigns.
