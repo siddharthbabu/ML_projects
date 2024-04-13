@@ -20,6 +20,6 @@ Mild Demented</br>
 The dataset is divided into 80% training and 20% testing sets. The training set is further split into 80% training and 20% validation sets. The dataset is available at the following link: Kaggle Dataset Link</br> 
 
 ### Conclusion</br> 
-The model was able to accurately classify the images into the 4 classes with a high degree of accuracy.</br> 
+The model was able to accurately classify the images into the 4 classes with 93% accuracy.</br> 
 The model can be further improved by using a larger dataset and by using more advanced deep learning techniques. </br> 
 The model can also be used to classify other types of images into multiple classes.</br> 
